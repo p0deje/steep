@@ -35,7 +35,7 @@ GEM
     bigdecimal (3.1.4)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
-    csv (3.2.7)
+    csv (3.2.8)
     debug (1.8.0)
       irb (>= 1.5.0)
       reline (>= 0.3.1)
